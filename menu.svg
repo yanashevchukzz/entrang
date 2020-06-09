@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.96 26.894">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fafafa;
+      }
+    </style>
+  </defs>
+  <g id="Calque_2" data-name="Calque 2" transform="translate(0 0)">
+    <path id="Path_135" data-name="Path 135" class="cls-1" d="M41.57,18.624H1.532a1.532,1.532,0,0,1,0-3.064H41.57a1.532,1.532,0,0,1,0,3.064Z" transform="translate(0 -3.641)"/>
+    <path id="Path_136" data-name="Path 136" class="cls-1" d="M37.281,3.064H1.532A1.532,1.532,0,1,1,1.532,0H37.281a1.532,1.532,0,0,1,0,3.064Z" transform="translate(0 0)"/>
+    <path id="Path_137" data-name="Path 137" class="cls-1" d="M44.428,34.174H1.532a1.532,1.532,0,1,1,0-3.064h42.9a1.532,1.532,0,0,1,0,3.064Z" transform="translate(0 -7.28)"/>
+  </g>
+</svg>
